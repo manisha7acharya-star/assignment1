@@ -1,0 +1,1 @@
+ inv <- read.csv ("./data/raw/bagmati_raw_inventory.csv")
